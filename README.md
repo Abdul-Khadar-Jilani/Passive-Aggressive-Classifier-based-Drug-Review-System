@@ -2,7 +2,7 @@
 
 Run the code and save two models and copy two saved models in seperate folder called model.
 
-I trained upto 120 medical conditions and got accuracy of nearly 74%.... we need to increase accuracy by optimization techniques.
+I trained upto 120 medical conditions and got accuracy of nearly 94%.... we need to increase accuracy by optimization techniques.
 
 we can by reducing training data also I think...
 
